@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4903a50-69b1-4dec-8686-004e08ad34e7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/procfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +73,21 @@
       <option name="project" value="LOCAL" />
       <updated>1592527964686</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Configuração inicial do portal">
+      <created>1592528999823</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1592528999823</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Configuração inicial do portal">
+      <created>1592529094728</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1592529094728</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -83,10 +98,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="Configuração inicial do portal" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="247" y="27" width="912" height="741" key="CommitChangelistDialog2" timestamp="1592527964638">
+    <state x="412" y="198" width="583" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592530683238">
       <screen x="51" y="27" width="1315" height="741" />
     </state>
-    <state x="247" y="27" width="912" height="741" key="CommitChangelistDialog2/51.27.1315.741/1366.0.1360.768@51.27.1315.741" timestamp="1592527964638" />
+    <state x="412" y="198" width="583" height="396" key="#com.intellij.fileTypes.FileTypeChooser/51.27.1315.741/1366.0.1360.768@51.27.1315.741" timestamp="1592530683238" />
+    <state x="247" y="27" width="912" height="741" key="CommitChangelistDialog2" timestamp="1592529094650">
+      <screen x="51" y="27" width="1315" height="741" />
+    </state>
+    <state x="247" y="27" width="912" height="741" key="CommitChangelistDialog2/51.27.1315.741/1366.0.1360.768@51.27.1315.741" timestamp="1592529094650" />
     <state x="542" y="296" key="Github.ShareDialog" timestamp="1592528683735">
       <screen x="51" y="27" width="1315" height="741" />
     </state>
@@ -95,6 +114,10 @@
       <screen x="51" y="27" width="1315" height="741" />
     </state>
     <state x="234" y="38" key="SettingsEditor/51.27.1315.741/1366.0.1360.768@51.27.1315.741" timestamp="1592528060172" />
+    <state x="303" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1592529143277">
+      <screen x="51" y="27" width="1315" height="741" />
+    </state>
+    <state x="303" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/51.27.1315.741/1366.0.1360.768@51.27.1315.741" timestamp="1592529143277" />
     <state x="479" y="311" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592527826552">
       <screen x="51" y="27" width="1315" height="741" />
     </state>
