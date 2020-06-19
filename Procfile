@@ -1,0 +1,1 @@
+web: gunicorn whispering-oasis-94069.wsgi --log-file -
