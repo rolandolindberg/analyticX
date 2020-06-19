@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e4903a50-69b1-4dec-8686-004e08ad34e7" name="Default Changelist" comment="" />
+    <list default="true" id="e4903a50-69b1-4dec-8686-004e08ad34e7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,10 +31,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/lindberg" />
       <recent name="$PROJECT_DIR$/lindberg/lindberg" />
     </key>
@@ -62,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592527943924</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Configuração inicial do portal">
+      <created>1592527964686</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1592527964686</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -73,14 +83,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="Configuração inicial do portal" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="247" y="27" width="912" height="741" key="CommitChangelistDialog2" timestamp="1592527943862">
+    <state x="247" y="27" width="912" height="741" key="CommitChangelistDialog2" timestamp="1592527964638">
       <screen x="51" y="27" width="1315" height="741" />
     </state>
-    <state x="247" y="27" width="912" height="741" key="CommitChangelistDialog2/51.27.1315.741/1366.0.1360.768@51.27.1315.741" timestamp="1592527943862" />
-    <state x="234" y="38" key="SettingsEditor" timestamp="1592523196755">
+    <state x="247" y="27" width="912" height="741" key="CommitChangelistDialog2/51.27.1315.741/1366.0.1360.768@51.27.1315.741" timestamp="1592527964638" />
+    <state x="542" y="296" key="Github.ShareDialog" timestamp="1592528683735">
       <screen x="51" y="27" width="1315" height="741" />
     </state>
-    <state x="234" y="38" key="SettingsEditor/51.27.1315.741/1366.0.1360.768@51.27.1315.741" timestamp="1592523196755" />
+    <state x="542" y="296" key="Github.ShareDialog/51.27.1315.741/1366.0.1360.768@51.27.1315.741" timestamp="1592528683735" />
+    <state x="234" y="38" key="SettingsEditor" timestamp="1592528060172">
+      <screen x="51" y="27" width="1315" height="741" />
+    </state>
+    <state x="234" y="38" key="SettingsEditor/51.27.1315.741/1366.0.1360.768@51.27.1315.741" timestamp="1592528060172" />
     <state x="479" y="311" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592527826552">
       <screen x="51" y="27" width="1315" height="741" />
     </state>
