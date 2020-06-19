@@ -1,1 +1,1 @@
-web: gunicorn analyticx.wsgi --log-file -
+web: gunicorn lindberg.wsgi --log-file -
