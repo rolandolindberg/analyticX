@@ -1,1 +1,1 @@
-web: gunicorn lindberg.wsgi --log-file -
+web: gunicorn lindberg.wsgi.application --log-file -
